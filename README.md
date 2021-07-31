@@ -1,8 +1,7 @@
 # RonniSouza
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-### Olá
+### Olá 👋
 Granduando em ciência da computação em busca de novas oportunidades.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RonniSouza)
