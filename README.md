@@ -1,6 +1,6 @@
 
 <h1 align='center'>
- Olá! Eu sou o Ronni, bem vindo ao meu repositório :)
+ Olá! Eu sou o Ronni, bem vindoª ao meu repositório :)
 </h1>
 
 <p align='center'>
