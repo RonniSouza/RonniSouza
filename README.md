@@ -1,5 +1,3 @@
-# RonniSouza
-
 
 <h1 align='center'>
  Olá, eu sou Ronni, bem vindo ao meu repositório :)
