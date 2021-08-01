@@ -6,7 +6,10 @@ Estou graduando em ciência da computação e em busca de novas oportunidades.
 
 [ ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RonniSouza&count_private=true&show_icons=true&theme=radical)](https://github.com/RonniSouza)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonniSouza)](https://github.com/RonniSouza)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonniSouza&layout=compact)](https://github.com/RonniSouza)
+
+[![estatísticas wakatime de ronnisouza](https://github-readme-stats.vercel.app/api/wakatime?username=RonniSouza)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
