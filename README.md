@@ -8,8 +8,13 @@
 </p>
 
 
-
-<p align='center'>
+ <div>
+  <a href="https://github.com/RonniSouza">
+  <img height="180em" src=src="https://github-readme-stats.vercel.app/api?username=ronnisouza&show_icons=true&count_private=true&theme=dark&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonniSouza&layout=compact&langs_count=7&theme=dark"/>
+</div>
+ 
+ <p align='center'>
   
   <a href="https://www.linkedin.com/in/ronni-souza/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -19,12 +24,6 @@
   </a>
 
 </p>
-
- <div>
-  <a href="https://github.com/RonniSouza">
-  <img height="180em" src=src="https://github-readme-stats.vercel.app/api?username=ronnisouza&show_icons=true&count_private=true&theme=dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonniSouza&layout=compact&langs_count=7&theme=dark"/>
-</div>
  
 
 
