@@ -39,7 +39,7 @@ Estou graduando em ciência da computação e em busca de novas oportunidades.
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ronnisouza&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <a href="#"><img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=RonniSouza&layout=compact&theme=radical)](https://github.com/RonniSouza)" width="350"></a> 
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonniSouza&layout=compact&theme=radical (https://github.com/RonniSouza)" width="350"></a> 
 
 </p>
 
