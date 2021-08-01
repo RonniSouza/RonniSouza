@@ -9,10 +9,10 @@ Estou graduando em ciência da computação e em busca de novas oportunidades.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonniSouza&layout=compact&theme=radical)](https://github.com/RonniSouza)
 
 <a href="https://github.com/RonniSouza/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RonniSouza" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RonniSouza&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/RonniSouza/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RonniSouza&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonniSouza&layout=compact&theme=radical" />
 </a>
 
 
