@@ -4,11 +4,11 @@
 ### Olá 👋
 Estou graduando em ciência da computação e em busca de novas oportunidades.
 
-[ ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RonniSouza&count_private=true&show_icons=true&theme=gradiente)](https://github.com/RonniSouza)
+[ ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RonniSouza&count_private=true&show_icons=true&theme=Gradient)](https://github.com/RonniSouza)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonniSouza&layout=compact)](https://github.com/RonniSouza)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonniSouza&layout=compact&theme=Gradient)](https://github.com/RonniSouza)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RonniSouza)](https://github.com/RonniSouza)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RonniSouza&theme=Gradient)](https://github.com/RonniSouza)
 
 
 
