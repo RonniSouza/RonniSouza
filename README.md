@@ -17,17 +17,15 @@
   <a href="https://instagram.com/ronnisouza">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
+
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ronnisouza&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonniSouza&layout=compact&theme=dark" width="350"></a> 
-</p>
-
+ <div>
+  <a href="https://github.com/RonniSouza">
+  <img height="180em" src=src="https://github-readme-stats.vercel.app/api?username=ronnisouza&show_icons=true&count_private=true&theme=dark&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonniSouza&layout=compact&langs_count=7&theme=dark"/>
+</div>
+ 
 
 
 
