@@ -4,7 +4,8 @@
 </h1>
 
 <p align='center'>
-  Estou graduando em ciência da computação e em busca de novas oportunidades.
+  Estou graduando em ciência da computação e em busca de novas oportunidades.<br>
+  Atualmente focando os estudos em back-end com .NET C#
 </p>
 
 
