@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  Atualmente focando os estudos em back-end com .NET C#
+  Atualmente sou desenvolvedor back-end com .NET C#
 </p>
 
 
